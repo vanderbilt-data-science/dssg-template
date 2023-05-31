@@ -18,7 +18,7 @@ To contribute to the project, please fork the repository and submit a pull reque
 
 ## Community Guidelines
 
-We aim to create a welcoming and inclusive community where everyone can feel comfortable and valued, regardless of skill level, background, ability, or identity, and we value members from diverse backgrounds. To ensure a positive atmosphere, please adhere to our code of conduct and community guidelines.
+We aim to create a welcoming and inclusive community where everyone can feel comfortable and valued, regardless of skill level, background, ability, or identity. To ensure a positive atmosphere, please adhere to our code of conduct and community guidelines.
 
 ## Meetings
 
